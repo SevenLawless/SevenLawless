@@ -46,9 +46,7 @@ Results-driven full-stack developer specialising in end-to-end web apps (fronten
 <div align="center">
 
 <!-- GitHub Streak Stats: GitHub username required -->
-![](https://github-readme-stats.vercel.app/api?username=SevenLawless&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SevenLawless&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenLawless&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SevenLawless&hide_border=true&border_radius=4&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 </div>
