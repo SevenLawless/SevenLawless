@@ -2,7 +2,7 @@
 
 # Hey 👋, SevenLawless
 
-### Junior Full-Stack Developer from Morocco | Python-friendly | Open to remote opportunities
+### Junior Full-Stack Developer | Python-friendly | Open to remote opportunities
 
 </div>
 
